@@ -1,0 +1,60 @@
+/* **********************************************************
+/GENERAL */
+* {
+    background-color: tomato
+ }
+
+ #wrapper {
+    max-width: 940;
+    margin: 0 auto 0 auto;
+    /* margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto; */
+    padding: 0 5%;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    h3 {
+        margin: 0 0 1em 0
+    }
+    body {
+        font-family: 'Open Sans', 'sans-serif' 
+    }
+/***********************************************************
+/GENERAL */
+
+
+/***********************************************************
+/HEADER */
+
+header {
+    margin: 0 0 30px 0;
+    padding: 5px 0 0 0;
+    width: 100%; 
+}
+h1 {
+    font-family: 'changa one', 'sans-serif'
+    margin: 15px 0;
+    font-size: 1.75em;
+    line-height: 0.8em;
+}
+/*********************
+FOOTER
+*********************/
+
+.social-icons {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+}
+
+/* page */
+.profile-photo {
+    max-width: 150px;
+    margin: 0 auto;
+    border-radius: 100%;
+}
